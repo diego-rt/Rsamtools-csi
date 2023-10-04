@@ -1,4 +1,4 @@
-useDynLib(Rsamtools-csi, .registration=TRUE)
+useDynLib(Rsamtools, .registration=TRUE)
 
 import(methods)
 
